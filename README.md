@@ -22,7 +22,7 @@ Start off by selecting Photo Library
 
 Then Select your photo from the gallery and then click add in the top right corner
 
-<img width="200px" src="./src/IMG_1409.PNG"/>
+<img width="200px" src="./src/IMG_1409.jpeg"/>
 
 
 It should now be attached to email as seen below

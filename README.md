@@ -5,7 +5,7 @@ Adding a photo to an email on both brower(e.g. Google Chrome, Safari, Firefox) o
 ## In a Browser
 ### Step 1: Start a new Email
 Once you've got your email open your gonna want to start a new email by pressing the + on the bottom right 
-![[IMG_1406.png|200]]
+![[src/IMG_1406.png|200]]
 
 ### Step 2: Open the attachment menu
 To open the attachment menu click on the attachment button in the bottom left corner.

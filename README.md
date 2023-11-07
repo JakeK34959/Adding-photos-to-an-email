@@ -29,6 +29,7 @@ It should now be attached to email as seen below
 
 <img width="200px" src="./src/IMG_1410.PNG"/>
 
+
 ## In the outlook App
 
 ### Step 1: Start a new Email

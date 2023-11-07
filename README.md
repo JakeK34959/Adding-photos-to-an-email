@@ -57,5 +57,5 @@ Select Keep original size, this means that it won't compress the image
 
 It should now be attached to email as seen below
 
-<img width="200px" src="./src/IMG_B048252A070-1.jpeg"/>
+<img width="200px" src="./src/IMG_B048252A070A-1.jpeg"/>
 

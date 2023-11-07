@@ -1,4 +1,3 @@
-# Adding photos to an email
 # Adding a Photo to an email
 Adding a photo to an email on both brower(e.g. Google Chrome, Safari, Firefox) or in the outlook app, is similar yet slightly different so i'll cover both method and for each step i've included photos that are all highlighted based on what the step tells you to do.
 
